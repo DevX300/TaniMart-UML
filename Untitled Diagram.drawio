@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec" name="Page-1">
-    <mxGraphModel dx="1114" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2507" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,9 +103,6 @@
         <mxCell id="V8GA_grWKprumomnabRv-34" parent="1c1d494c118603dd-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Category" vertex="1">
           <mxGeometry height="40" width="95" x="7.5" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="V8GA_grWKprumomnabRv-47" parent="1c1d494c118603dd-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Category" vertex="1">
-          <mxGeometry height="40" width="95" x="130" y="410" as="geometry" />
-        </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-56" edge="1" parent="1c1d494c118603dd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -127,8 +124,14 @@
         <mxCell id="V8GA_grWKprumomnabRv-57" parent="1c1d494c118603dd-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Cart" vertex="1">
           <mxGeometry height="30" width="70" x="65" y="560" as="geometry" />
         </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-66" edge="1" parent="1c1d494c118603dd-3" source="V8GA_grWKprumomnabRv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V8GA_grWKprumomnabRv-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-58" parent="1c1d494c118603dd-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Checkout" vertex="1">
           <mxGeometry height="40" width="95" x="40" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-65" parent="1c1d494c118603dd-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Order tracking" vertex="1">
+          <mxGeometry height="40" width="110" x="32.5" y="730" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-4" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="Lane 3" vertex="1">
           <mxGeometry height="970" width="250" x="500" y="20" as="geometry" />
@@ -153,6 +156,14 @@
         <mxCell id="V8GA_grWKprumomnabRv-37" parent="1c1d494c118603dd-4" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Claim New Promo" vertex="1">
           <mxGeometry height="30" width="125" x="15" y="275" as="geometry" />
         </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-68" edge="1" parent="1c1d494c118603dd-4" source="V8GA_grWKprumomnabRv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="V8GA_grWKprumomnabRv-47" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="92.52" y="390" />
+              <mxPoint x="92.52" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-40" parent="1c1d494c118603dd-4" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Promo and Loyalty" vertex="1">
           <mxGeometry height="40" width="110" x="22.5" y="330" as="geometry" />
         </mxCell>
@@ -164,6 +175,29 @@
             </Array>
             <mxPoint x="-110" y="270" as="sourcePoint" />
             <mxPoint x="90" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-47" parent="1c1d494c118603dd-4" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Apply Promo" vertex="1">
+          <mxGeometry height="30" width="95" x="45" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-71" edge="1" parent="1c1d494c118603dd-4" source="V8GA_grWKprumomnabRv-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="60571a20871a0731-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-67" parent="1c1d494c118603dd-4" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="My Orders/&lt;br&gt;Purchase History" vertex="1">
+          <mxGeometry height="50" width="125" x="30" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-69" edge="1" parent="1c1d494c118603dd-4" source="V8GA_grWKprumomnabRv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="310" />
+              <mxPoint x="-100" y="312.53" />
+              <mxPoint x="-99.95" y="312.53" />
+              <mxPoint x="-99.95" y="465" />
+              <mxPoint x="-49.95" y="465" />
+              <mxPoint x="-49.95" y="705" />
+            </Array>
+            <mxPoint x="-197.4999999999999" y="334.99" as="sourcePoint" />
+            <mxPoint x="30" y="704.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-13" edge="1" parent="1c1d494c118603dd-1" source="60571a20871a0731-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V8GA_grWKprumomnabRv-9">
@@ -221,6 +255,21 @@
         </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-60" edge="1" parent="1c1d494c118603dd-1" source="V8GA_grWKprumomnabRv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V8GA_grWKprumomnabRv-58">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-64" edge="1" parent="1c1d494c118603dd-1" source="V8GA_grWKprumomnabRv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="V8GA_grWKprumomnabRv-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592.52" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V8GA_grWKprumomnabRv-70" edge="1" parent="1c1d494c118603dd-1" source="V8GA_grWKprumomnabRv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V8GA_grWKprumomnabRv-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="770" />
+              <mxPoint x="450" y="725.03" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Action" vertex="1">
           <mxGeometry height="30" width="100" x="210" y="1050" as="geometry" />
