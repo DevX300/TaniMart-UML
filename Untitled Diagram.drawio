@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec" name="Page-1">
-    <mxGraphModel dx="2507" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1c1d494c118603dd-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=none;" value="Pool" vertex="1">
+        <mxCell id="1c1d494c118603dd-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=none;" value="Activity Diagram Tanimart App" vertex="1">
           <mxGeometry height="990" width="750" x="40" y="20" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-2" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="Lane 1" vertex="1">
