@@ -7,7 +7,7 @@
         <mxCell id="1c1d494c118603dd-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=none;" value="Activity Diagram Tanimart App" vertex="1">
           <mxGeometry height="990" width="750" x="40" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="1c1d494c118603dd-2" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="Lane 1" vertex="1">
+        <mxCell id="1c1d494c118603dd-2" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="" vertex="1">
           <mxGeometry height="970" width="250" y="20" as="geometry">
             <mxRectangle height="970" width="40" y="20" as="alternateBounds" />
           </mxGeometry>
@@ -52,7 +52,7 @@
         <mxCell id="V8GA_grWKprumomnabRv-54" parent="1c1d494c118603dd-2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" value="Product Details" vertex="1">
           <mxGeometry height="40" width="110" x="100.63" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="1c1d494c118603dd-3" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="Lane 2" vertex="1">
+        <mxCell id="1c1d494c118603dd-3" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="" vertex="1">
           <mxGeometry height="970" width="250" x="250" y="20" as="geometry" />
         </mxCell>
         <mxCell id="V8GA_grWKprumomnabRv-21" edge="1" parent="1c1d494c118603dd-3" source="V8GA_grWKprumomnabRv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V8GA_grWKprumomnabRv-17">
@@ -139,7 +139,7 @@
         <mxCell id="V8GA_grWKprumomnabRv-78" edge="1" parent="1c1d494c118603dd-3" source="V8GA_grWKprumomnabRv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="V8GA_grWKprumomnabRv-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1c1d494c118603dd-4" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="Lane 3" vertex="1">
+        <mxCell id="1c1d494c118603dd-4" parent="1c1d494c118603dd-1" style="swimlane;html=1;startSize=20;rounded=1;" value="" vertex="1">
           <mxGeometry height="970" width="250" x="500" y="20" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-45" edge="1" parent="1c1d494c118603dd-4" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="60571a20871a0731-5">
@@ -267,8 +267,8 @@
         <mxCell id="V8GA_grWKprumomnabRv-69" edge="1" parent="1c1d494c118603dd-1" source="V8GA_grWKprumomnabRv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="V8GA_grWKprumomnabRv-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="365" y="430" />
-              <mxPoint x="590" y="430" />
+              <mxPoint x="365" y="440" />
+              <mxPoint x="590" y="440" />
             </Array>
             <mxPoint x="302.5000000000001" y="354.99" as="sourcePoint" />
             <mxPoint x="530" y="724.99" as="targetPoint" />
